@@ -3,7 +3,7 @@ $( function() {
   // add background image - 3rd countdown to 14th birthday 10/11/2024. Set to 10/12 @3:59:59am. Started with 11th birthday on 10/11/21.
   $.backstretch('images/July-2-2024-kitty-2.png');  /* -500 */
   // date of birth: 10/11/10.
-  var endDate = "Oct  11, 2024 10:59:59";
+  var endDate = "Oct  11, 2025 10:59:59";
   $('.countdown.simple').countdown({ date: endDate });
   $('.countdown.styled').countdown({
     date: endDate,
