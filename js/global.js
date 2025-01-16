@@ -1,7 +1,7 @@
 /* global.js - theme by: brian a. bauska (grandpa) */
 $( function() {
   // add background image - 4th countdown to 15th birthday 10/11/2025. Set to 10/11 @10:59:59am. Started with 11th birthday on 10/11/21.
-  $.backstretch('images/July-2-2024-kitty-2.png');  /* -500 */
+  $.backstretch('images/background-bday-silus-16th-2026.jpg');
   // date of birth: 10/11/10 10:59:59.
   var endDate = "Oct  11, 2025 10:59:59";
   $('.countdown.simple').countdown({ date: endDate });
